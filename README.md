@@ -7,7 +7,7 @@ A mod for Minetest that adds Flowers, Food, Tools, Ores, And More!
 
 ## Deployment
 
-To deploy this project add it to your mods folder ~/.minetest/mods/.
+To deploy this project add it to your mods folder ~/.minetest/mods/
 
 
 
