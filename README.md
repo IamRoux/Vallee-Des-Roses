@@ -19,5 +19,5 @@ To deploy this project add it to your mods folder ~/.minetest/mods/
 
 ## Support
 
-For support, email me roux.rose@proton.me, Or submit an error on this github page.
+For support, email me roux.rose@proton.me, Or submit an issue on this github page.
 
